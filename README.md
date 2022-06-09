@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**Gaimo/Gaimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Livros que eu li e recomendo:
+* Força de vontade não funciona
+* Por que nós dormimos
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Filmes que eu assisti e recomendo:
+* Interestrelar
+* No Limite do Amanhã
+* Maze Runner
+* Matrix (1)
+* Ready Player One
+* Looper
+* Projeto Almanaque
+* Invasores: Nenhum sistema está a salvo
+* A Origem
+* Efeito borboleta (1)
+* O Predestinado
