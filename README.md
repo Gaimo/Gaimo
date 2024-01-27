@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**Gaimo/Gaimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Filmes que eu assisti e recomendo:
+- A origem (Inception)
+- Efeito borboleta 1 (The Butterfly Effect) *Na minha opnião apenas o 1 é bom.*
+- Interstellar
+- Ilha do medo (Shutter Island)
+- Onde está segunda? (What Happened to Monday)
+- O poço (The Platform)
+- No Limite do Amanhã (Edge of Tomorrow)
 
-Here are some ideas to get you started:
+### Livros que eu li e recomendo:
+- Força de vontade não funciona (Willpower Doesn't Work)
+- Hábitos atômicos (Atomic Habits)
+- Wereworld
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Animes que eu assisti e recomendo:
+- No game no life
+- Solo leveling
